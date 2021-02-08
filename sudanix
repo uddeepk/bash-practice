@@ -1,0 +1,4 @@
+date; who;
+#This program can be run by /bin/bash sudanix
+#The results displayed are the date and next line contains the user that
+#opened it.
