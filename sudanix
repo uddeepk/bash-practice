@@ -1,6 +1,8 @@
+#!/bin/bash
 date; who;
 #This program can be run by /bin/bash sudanix
 #The results displayed are the date and next line contains the user that
 #opened it.
 #When I chmod 776 sudanix, then it becomes a script.
 #A script can be run without using the absolute path for /bin/bash
+#The first line is to let the OS know the specific shell to execute
